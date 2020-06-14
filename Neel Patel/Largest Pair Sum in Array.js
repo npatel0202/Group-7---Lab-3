@@ -10,7 +10,7 @@ function largestPairSum(numbers)
         first = numbers[i];
         continue;
       }
-      if (numbers[i] > second) 
+      if (numbers[i] > second)
       {
         second = numbers[i];
       }
